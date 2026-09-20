@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Markesha Wattree profile banner" width="100%" />
+</p>
+
 # Markesha Wattree
 
 ### Learning Systems • AI Enablement • Instructional Technology
