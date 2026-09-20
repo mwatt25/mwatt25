@@ -4,7 +4,7 @@
 
 I build human-centered learning experiences, interactive training, and workflow tools that make complex work easier to understand and use.
 
-My work sits at the intersection of **learning design, implementation, AI literacy, early childhood education, and practical technology adoption**. I am especially interested in translating ideas into experiences people can actually use, from interactive simulations and literacy products to program-management systems.
+My work brings together **learning design, implementation, AI literacy, early childhood education, and practical technology use**. I focus on turning ideas into experiences people can actually use, from interactive simulations and literacy products to program-management systems.
 
 ## Selected work
 
