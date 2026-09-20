@@ -6,7 +6,7 @@ I build human-centered learning experiences, interactive training, and workflow 
 
 My work sits at the intersection of **learning design, implementation, AI literacy, early childhood education, and practical technology adoption**. I am especially interested in translating ideas into experiences people can actually use, from interactive simulations and literacy products to program-management systems.
 
-## Featured work
+## Selected work
 
 ### [Keep the Human](projects/keep-the-human.md)
 **Interactive AI literacy and decision-making simulation**
@@ -28,13 +28,6 @@ A workflow-focused system designed to centralize credential progress, milestones
 A browser-based phonics experience that combines sound practice, word building, writing, and sentence construction in one learner flow.
 
 **Shows:** early-literacy expertise, instructional product design, interaction design, accessibility thinking, educational technology
-
-### [AI Music Studio](projects/ai-music-studio.md)
-**AI-supported creative learning experience**
-
-A structured learning experience that guides participants from concept development through writing, recording, visual creation, and release.
-
-**Shows:** AI learning design, creative workflow design, multimodal instruction, learner scaffolding
 
 ## How I work
 
@@ -62,4 +55,4 @@ That approach has shaped work across educator professional learning, early liter
 
 See additional work, professional experience, and learning design examples at [markeshawattree.com](https://markeshawattree.com/).
 
-> **Portfolio note:** Public GitHub materials are intentionally curated. Production source code, learner data, proprietary instructional content, credentials, and private business systems are not published here.
+> **Portfolio note:** This GitHub profile is intentionally curated. Production source code, learner data, proprietary instructional content, credentials, and private business systems are not published here.
